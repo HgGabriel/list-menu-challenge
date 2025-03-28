@@ -20,12 +20,14 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: space-around;
+    width: 100%;
 }
 
 
 
 nav li {
     padding: 15px;
+    width: 100%;
 }
 
 nav ul li ul {
